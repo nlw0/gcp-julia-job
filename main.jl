@@ -1,8 +1,4 @@
 using JSON
-# import os
-# import random
-# import sys
-# import time
 
 # Retrieve Job-defined env vars
 TASK_INDEX = get(ENV, "CLOUD_RUN_TASK_INDEX", 0)
